@@ -29,6 +29,3 @@ Após a execução, o programa solicita que o usuário insira a mensagem a ser c
 A chave pública gerada e o texto cifrado são exibidos, seguidos pela decodificação da mensagem original com a chave privada.
 
 ![Chave Pública e Texto Cifrado](./images/end.png)
-
-## Contribuição
-Sinta-se à vontade para fazer melhorias ou enviar pull requests. Caso tenha alguma dúvida ou sugestão, entre em contato!
