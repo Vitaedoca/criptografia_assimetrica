@@ -18,17 +18,17 @@ Execute o script `main.py` para interagir com o sistema de criptografia.
 ### 1. O Sistema Iniciando
 Aqui você verá a execução inicial do sistema, onde as chaves são geradas automaticamente.
 
-![Início do Sistema](./start.png)
+![Início do Sistema](./images/start.png)
 
 ### 2. Entrada da Mensagem
 Após a execução, o programa solicita que o usuário insira a mensagem a ser criptografada.
 
-![Digite sua frase](./frase.png)
+![Digite sua frase](./images/frase.png)
 
 ### 3. Resultado Final
 A chave pública gerada e o texto cifrado são exibidos, seguidos pela decodificação da mensagem original com a chave privada.
 
-![Chave Pública e Texto Cifrado](./end.png)
+![Chave Pública e Texto Cifrado](./images/end.png)
 
 ## Contribuição
 Sinta-se à vontade para fazer melhorias ou enviar pull requests. Caso tenha alguma dúvida ou sugestão, entre em contato!
